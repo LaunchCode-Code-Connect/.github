@@ -34,22 +34,17 @@ Every month (first monday of month), the coolest pre-defined or organic project 
 
 Besides these pre-defined projects, you will be allowed to create your own repositories to collaborate on any projects you wish inside this new group.
 
+We have also enabled the "Discussions" feature for this organization.
+Please use it to share your wins, look for project partners, and/or connect with other alumni.
 
+**Things we want to emphasize:**
+*  While engaging with this group, you will be expected to be professional and follow LaunchCode's rules of conduct. They can be found here: `placeholder`
+*  This group will not be actively staffed. It is not a space to seek instructional help from LaunchCode staff. It is to give our alumni some light guidance on ways to continue to develop their skills and create a community for alumni to connect as they take on pre-defined challenges or organic group projects.
+* You can only join this group if you have graduated from a LaunchCode course
 
+If you are an alumni and would like to be added to this group, please send an email to education+alumni@launchcode.org with the following information:
+- Your full name
+- The cohort you graduated from 
+- Your Github account name and link to your Github Profile
+- (optional) A link to your LinkedIn profile and if you would like to be invited to our Linkedin Official LaunchCode Alumni group 
 
-
-
-
-
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
