@@ -8,7 +8,7 @@ There is a problem that most of us encounter as alumni:
 Because of this, most of us drift away on our own path, losing that human community we had access to during our class.
 And in turn, we lose the support of our fellow developers as we fight to gain our first job in tech or to advance in our technology careers.
 
-## It's time to change that
+## It's Time to Change That
 
 This Github Organization will serve as a community for LaunchCode alumni to form relationships with other alumni (whether they just graduated or graduated years ago) and collaborate on pre-defined and organic projects. 
 
