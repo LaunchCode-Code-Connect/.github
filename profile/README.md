@@ -12,6 +12,8 @@ And in turn, we lose the support of our fellow developers as we fight to gain ou
 
 This Github Organization will serve as a community for LaunchCode alumni to form relationships with other alumni (whether they just graduated or graduated years ago) and collaborate on pre-defined and organic projects. 
 
+## Content Schedule
+
 Every Monday (starting 12/2/2024), we will publish a weekly update.
 This update will include new job postings in LaunchCode Mission Control that apprenticeship candidates can apply to.
 It will also include new on LaunchCode volunteer opportunities, and other LaunchCode news. 
@@ -31,6 +33,8 @@ These project ideas will be published in the `monthly-project-challenges` repo.
 For the project/s you wish to take on, we recommend creating a new repo in the `Launch-Code-Connect` organization with a name like `[your-name]-[your-name-for-project]`.
 
 Every month (first monday of month), the coolest pre-defined or organic project created by a group member or members will be pinned to the home page and shared with the wider LaunchCode organization.
+
+## Organic Content
 
 Besides these pre-defined projects, you will be allowed to create your own repositories to collaborate on any projects you wish inside this new group.
 
