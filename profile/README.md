@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to the Official LaunchCode Alumni Hub! 👋
+
+
 
 <!--
 
