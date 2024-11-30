@@ -8,7 +8,7 @@ There is a problem that most of us encounter as alumni:
 Because of this, most of us drift away on our own path, losing that human community we had access to during our class.
 And in turn, we lose the support of our fellow developers as we fight to gain our first job in tech or to advance in our technology careers.
 
-**It's time to change that**
+## It's time to change that
 
 This Github Organization will serve as a community for LaunchCode alumni to form relationships with other alumni (whether they just graduated or graduated years ago) and collaborate on pre-defined and organic projects. 
 
@@ -37,11 +37,13 @@ Besides these pre-defined projects, you will be allowed to create your own repos
 We have also enabled the "Discussions" feature for this organization.
 Please use it to share your wins, look for project partners, and/or connect with other alumni.
 
-**Things we want to emphasize:**
+## Things we want to emphasize:
 *  While engaging with this group, you will be expected to be professional and follow LaunchCode's rules of conduct. They can be found here: `placeholder`
 *  This group will not be actively staffed. It is not a space to seek instructional help from LaunchCode staff. It is to give our alumni some light guidance on ways to continue to develop their skills and create a community for alumni to connect as they take on pre-defined challenges or organic group projects.
 * You can only join this group if you have graduated from a LaunchCode course
 
+
+## Request to join this Github organization
 If you are an alumni and would like to be added to this group, please send an email to education+alumni@launchcode.org with the following information:
 - Your full name
 - The cohort you graduated from 
