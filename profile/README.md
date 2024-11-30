@@ -30,7 +30,7 @@ You will be able to work on these alone or together to continue to develop your 
 These project ideas will be published in the `monthly-project-challenges` repo.
 For the project/s you wish to take on, we recommend creating a new repo in the `Launch-Code-Connect` organization with a name like `[your-name]-[your-name-for-project]`.
 
-Every month (first monday of month), the coolest pre-defined or organic project created by a group member will be pinned to the home page and shared with the wider LaunchCode organization.
+Every month (first monday of month), the coolest pre-defined or organic project created by a group member or members will be pinned to the home page and shared with the wider LaunchCode organization.
 
 Besides these pre-defined projects, you will be allowed to create your own repositories to collaborate on any projects you wish inside this new group.
 
