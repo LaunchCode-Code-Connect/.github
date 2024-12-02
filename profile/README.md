@@ -15,7 +15,7 @@ This Github Organization will serve as a community for LaunchCode alumni to form
 ## Content Schedule
 
 Every Monday (starting 12/2/2024), we will publish a weekly update.
-This update will include new job postings in LaunchCode Mission Control that apprenticeship candidates can apply to.
+This update will include new apprenticeship job postings in LaunchCode Mission Control that apprenticeship candidates can apply to.
 It will also include new on LaunchCode volunteer opportunities, and other LaunchCode news. 
 It will be a concise update that allows both new and old alumni to stay in the loop.
 
