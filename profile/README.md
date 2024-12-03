@@ -48,7 +48,7 @@ Please use it to share your wins, look for project partners, and/or connect with
 * You can only join this group if you have graduated from a LaunchCode course
 
 
-## Message specifically for alumni in LaunchCode's candidate pool
+## Message specifically for alumni currently in LaunchCode's candidate pool
 
 **The more you engage with the new group's weekly problem sets and project challenges, the better you'll become as a Software Developer and/or Data Analyst/Engineer.** 
 
