@@ -14,15 +14,6 @@ This GitHub Organization is your new home to connect with fellow alumni—whethe
 
 ## What to Expect
 
-### Weekly Updates
-
-Starting Monday, December 2, 2024, we’ll publish weekly updates featuring:
-
-- Volunteer openings with LaunchCode
-- The latest LaunchCode news
-
-These concise updates will help alumni stay informed and engaged with the community.
-
 ### Weekly Problem Sets
 
 Every Monday, sharpen your skills with Data Structure & Algorithm (DSA) challenges common in software engineering interviews, as well as curated questions for data science and data analysis alumni. You’ll find these in the weekly-problem-set repo.
@@ -38,6 +29,10 @@ Create a new repo within the Launch-Code-Connect organization for your chosen pr
 ### Organic Content
 
 In addition to structured projects, you’re encouraged to create your own repositories and collaborate on passion projects. Use the Discussions feature to share achievements, find project partners, and connect with fellow alumni.
+
+### LaunchCode Announcements
+
+We'll publish information about volunteer opportunities and other relevant news in the "Announcements" discussion channel.
 
 ---
 
