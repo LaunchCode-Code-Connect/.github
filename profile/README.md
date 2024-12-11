@@ -53,7 +53,7 @@ Engaging with weekly problem sets and project challenges is an excellent way to 
 
 LaunchCode has a strong track record of placing graduates into the tech industry. By actively participating here, you’re taking a big step toward breaking into—and thriving in—the industry.
 
-Career Outcomes holds daily open office hours for apprenticeship candidates. You can find more information and book a time slot here: https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0StAf0jZNQp6vYtT8uXpcu7cSWb33UhE44kWbXCn039jFyo_O0sFI6IdMHKIjHEJ2Z1jjJHYM6
+Career Outcomes holds daily open office hours for apprenticeship candidates. You can find more information and book a time slot here: https://calendar.google.com/calendar/u/0/appointments/AcZssZ2_gNocYbIku8zCgulLQakNcEdhtJeyN_vIKmk=
 
 ---
 
