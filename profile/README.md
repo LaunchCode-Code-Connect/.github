@@ -75,12 +75,7 @@ Your GitHub activity should reflect genuine progress, not artificially inflated 
 
 ## Ready to Join?
 
-If you’re a LaunchCode alumni and want to join this group, send an email to education+alumni@launchcode.org with the following details:
-
-1. Your full name
-2. The cohort you graduated from
-3. Your GitHub account name and profile link
-4. (Optional) Your LinkedIn profile link, if you’d like to be invited to our official LinkedIn LaunchCode Alumni group
+If you’d like to join this exciting initiative, please submit the required info in this form: https://docs.google.com/forms/d/e/1FAIpQLSc5D1d2JgS8T2Y0ooilEhEKOaABu4qHyeOkqFxQSRl9bKhKrw/viewform?usp=header
     
 
 We’re excited to have you here and can’t wait to see the amazing contributions you’ll make to this community!
