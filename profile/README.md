@@ -40,7 +40,7 @@ We'll publish information about volunteer opportunities and other relevant news 
 
 While engaging with this community, please:
 
-- Be professional and adhere to LaunchCode’s code of conduct.
+- Be professional and adhere to LaunchCode’s code of conduct. You can find the code of conduct here: https://drive.google.com/file/d/1Xa8_oeqy4g5PF8OqocQAkATZFmBrgK3U/view?usp=drive_link
 - Note that this group is self-driven and not staffed by LaunchCode instructors. It’s a space for alumni to support and learn from one another.
 - Ensure you’re a LaunchCode graduate before requesting to join.
     
@@ -52,6 +52,8 @@ While engaging with this community, please:
 Engaging with weekly problem sets and project challenges is an excellent way to improve your skills, demonstrate effort, and increase your chances of landing an apprenticeship or direct-hire role.
 
 LaunchCode has a strong track record of placing graduates into the tech industry. By actively participating here, you’re taking a big step toward breaking into—and thriving in—the industry.
+
+Career Outcomes holds daily open office hours for apprenticeship candidates. You can find more information and book a time slot here: https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0StAf0jZNQp6vYtT8uXpcu7cSWb33UhE44kWbXCn039jFyo_O0sFI6IdMHKIjHEJ2Z1jjJHYM6
 
 ---
 
