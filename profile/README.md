@@ -12,29 +12,47 @@ This GitHub Organization is your new home to connect with fellow alumni—whethe
 
 ---
 
-## What to Expect
+## 2025 Content Schedule
 
-### Weekly Problem Sets
+### Quarterly Project Challenges
+Each quarter (January-March, April-June, etc.) we will publish a Software Development, Data Analysis, and Salesforce project challenge. 
+The basic requirements of each of these projects will be at the beginner level. But, there will be optional features or additional analysis to implement that will make the project more challenging. 
 
-Every Monday, sharpen your skills with Data Structure & Algorithm (DSA) challenges common in software engineering interviews, as well as curated questions for data science and data analysis alumni. You’ll find these in the weekly-problem-set repo.
+These challenges will be a perfect way to improve your skills and build a body of work you can show to employers during interviews.
 
-We recommend creating a fork of the repo (e.g., [your-name]-weekly-problem-set) to showcase your progress and engagement.
+**To participate in the project challenges, please fork the repo of any project you want to build to your personal github profile and make the forked repo public**.
+This will allow us to see your work and engagement with the quarterly challenges.
 
-### Monthly Project Challenges
+At the end of each quarter, we will showcase our favorite forked project repos.
 
-On the first Monday of each month, explore Beginner, Intermediate, and Advanced project challenges with clearly defined requirements. These challenges are perfect for solo or group work to continue honing your technical skills.
+#### Q1 2025 - Published project challenges
+- Q1-2025-software-dev-project-challenge
 
-Create a new repo within the Launch-Code-Connect organization for your chosen project (e.g., [your-name]-[project-name]). Exceptional projects will be showcased on the organization’s home page and shared with the broader LaunchCode network!
+#### Q1 2025 - Soon to be published project challenges
+- Q1-2025-data-analysis-project-challenge
+- Q1-2025-salesforce-project-challenge
 
-### Organic Content
+### Comprehensive Software Engineer and Data Analysis/Data Engineering Problem Sets
 
-In addition to structured projects, you’re encouraged to create your own repositories and collaborate on passion projects. Use the Discussions feature to share achievements, find project partners, and connect with fellow alumni.
+Curated problem sets to become an excellent Software Engineer or Data Analyst/Engineer.
 
-### LaunchCode Announcements
+The Software Development problem set will give you the tools to more efficiently load, process, store, and manipulate data in any program, in any language you write code in.
 
-We'll publish information about volunteer opportunities and other relevant news in the "Announcements" discussion channel.
+The Data Analysis/Engineer problem set will give you the tools to more efficiently work with large datasets and come up with code to automate your analysis.
 
----
+Understanding the techniques used to solve these problems will make you a very competitive candidate for Software Engineering and Data Analyst/Engineering roles in the wider job market.
+
+
+#### 2025 problem sets:
+- 2025-software-dev-problem-set
+- 2025-data-analysis-problem-set
+
+**Please fork the repo of the problem set you want to work through to your personal github profile and make the forked repo public**.
+This will allow us to see your work and progress in the problem set.
+
+### Candidate Continued Learning Resources
+
+More info to come!
 
 ## Guidelines and Expectations
 
@@ -49,7 +67,7 @@ While engaging with this community, please:
 
 ## Special Message for Current Apprenticeship Candidates
 
-Engaging with weekly problem sets and project challenges is an excellent way to improve your skills, demonstrate effort, and increase your chances of landing an apprenticeship or direct-hire role.
+Engaging with the quarterly project challenges and problem sets is an excellent way to improve your skills, demonstrate effort, and increase your chances of landing an apprenticeship or direct-hire role.
 
 LaunchCode has a strong track record of placing graduates into the tech industry. By actively participating here, you’re taking a big step toward breaking into—and thriving in—the industry.
 
