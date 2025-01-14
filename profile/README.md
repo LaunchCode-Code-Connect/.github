@@ -27,10 +27,9 @@ At the end of each quarter, we will showcase our favorite forked project repos.
 
 #### Q1 2025 - Published project challenges
 - Q1-2025-software-dev-project-challenge
-
-#### Q1 2025 - Soon to be published project challenges
 - Q1-2025-data-analysis-project-challenge
 - Q1-2025-salesforce-project-challenge
+
 
 ### Comprehensive Software Engineer and Data Analysis/Data Engineering Problem Sets
 
@@ -58,7 +57,7 @@ More info to come!
 
 While engaging with this community, please:
 
-- Be professional and adhere to LaunchCode’s code of conduct. You can find the code of conduct here: https://drive.google.com/file/d/1Xa8_oeqy4g5PF8OqocQAkATZFmBrgK3U/view?usp=drive_link
+- Be professional and adhere to LaunchCode’s code of conduct. You can find the [code of conduct here](https://drive.google.com/file/d/1Xa8_oeqy4g5PF8OqocQAkATZFmBrgK3U/view?usp=drive_link): 
 - Note that this group is self-driven and not staffed by LaunchCode instructors. It’s a space for alumni to support and learn from one another.
 - Ensure you’re a LaunchCode graduate before requesting to join.
     
@@ -71,7 +70,7 @@ Engaging with the quarterly project challenges and problem sets is an excellent 
 
 LaunchCode has a strong track record of placing graduates into the tech industry. By actively participating here, you’re taking a big step toward breaking into—and thriving in—the industry.
 
-Career Outcomes holds daily open office hours for apprenticeship candidates. You can find more information and book a time slot here: https://calendar.google.com/calendar/u/0/appointments/AcZssZ2_gNocYbIku8zCgulLQakNcEdhtJeyN_vIKmk=
+Career Outcomes holds daily open office hours for apprenticeship candidates. You can find more information and [book a time slot here](https://calendar.google.com/calendar/u/0/appointments/AcZssZ2_gNocYbIku8zCgulLQakNcEdhtJeyN_vIKmk=): 
 
 ---
 
@@ -93,7 +92,7 @@ Your GitHub activity should reflect genuine progress, not artificially inflated 
 
 ## Ready to Join?
 
-If you’d like to join this exciting initiative, please submit the required info in this form: https://docs.google.com/forms/d/e/1FAIpQLSc5D1d2JgS8T2Y0ooilEhEKOaABu4qHyeOkqFxQSRl9bKhKrw/viewform?usp=header
+If you’d like to join this exciting initiative, [please submit the required info in this form](https://docs.google.com/forms/d/e/1FAIpQLSc5D1d2JgS8T2Y0ooilEhEKOaABu4qHyeOkqFxQSRl9bKhKrw/viewform?usp=header): 
     
 
 We’re excited to have you here and can’t wait to see the amazing contributions you’ll make to this community!
