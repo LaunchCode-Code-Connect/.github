@@ -94,5 +94,8 @@ Your GitHub activity should reflect genuine progress, not artificially inflated 
 
 If you’d like to join this exciting initiative, [please submit the required info in this form](https://docs.google.com/forms/d/e/1FAIpQLSc5D1d2JgS8T2Y0ooilEhEKOaABu4qHyeOkqFxQSRl9bKhKrw/viewform?usp=header): 
     
-
 We’re excited to have you here and can’t wait to see the amazing contributions you’ll make to this community!
+
+## Have you recently completed a course or earned a technical certification?
+
+[Let us know by filling out this form](https://qualtricsxmfcfksgcjd.qualtrics.com/jfe/form/SV_6EuX8AuzSihyQRg)
