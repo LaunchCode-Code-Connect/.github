@@ -2,6 +2,12 @@
 
 We’re thrilled to have you join this new alumni group! This community is designed to keep the LaunchCode spirit alive and help alumni stay connected, collaborate, and grow. Detailed instructions on how to join this group are available at the bottom of this README file.
 
+## April 2025 Updates:
+Q2 2025 challenge projects are now available! The repositories are pinned to this page.
+
+Have you recently completed a course or earned a technical certification?
+[Let us know by filling out this form](https://qualtricsxmfcfksgcjd.qualtrics.com/jfe/form/SV_6EuX8AuzSihyQRg)
+
 ## Reconnecting the LaunchCode Family
 
 As alumni, we all face a common challenge: after graduation, there are fewer opportunities for us to gather, share knowledge, and continue learning together. Many of us end up navigating our careers alone, losing the incredible community of peers who supported us during our LaunchCode journey.
@@ -29,6 +35,11 @@ At the end of each quarter, we will showcase our favorite forked project repos.
 - Q1-2025-software-dev-project-challenge
 - Q1-2025-data-analysis-project-challenge
 - Q1-2025-salesforce-project-challenge
+
+#### Q2 2025 - Published project challenges
+- Q2-2025-software-dev-project-challenge
+- Q2-2025-data-analysis-project-challenge
+- Q2-2025-salesforce-project-challenge
 
 
 ### Comprehensive Software Engineer and Data Analysis/Data Engineering Problem Sets
@@ -96,6 +107,4 @@ If you’d like to join this exciting initiative, [please submit the required in
     
 We’re excited to have you here and can’t wait to see the amazing contributions you’ll make to this community!
 
-## Have you recently completed a course or earned a technical certification?
 
-[Let us know by filling out this form](https://qualtricsxmfcfksgcjd.qualtrics.com/jfe/form/SV_6EuX8AuzSihyQRg)
