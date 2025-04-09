@@ -29,8 +29,6 @@ These challenges will be a perfect way to improve your skills and build a body o
 **To participate in the project challenges, please fork the repo of any project you want to build to your personal github profile and make the forked repo public**.
 This will allow us to see your work and engagement with the quarterly challenges.
 
-At the end of each quarter, we will showcase our favorite forked project repos.
-
 #### Q1 2025 - Published project challenges
 - Q1-2025-software-dev-project-challenge
 - Q1-2025-data-analysis-project-challenge
